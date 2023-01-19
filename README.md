@@ -6,7 +6,7 @@ Project to train RL agent for [Udacity Continuous Control Environment](https://g
 
 The notebook included in this repository trains a Deep Deterministic Policy Gradient Network to improve the policy ('Actor') and improve the value estimates ('Critic') for an agent in Udacity Continuous Control Environment. 
 
-![Continous Control Environment Gif](udacity_continous_control_env.gif)
+![Continous Control Environment Gif](udacity_continuous_control_env.gif)
 
 [Gif Source: Udacity DRLND Repository](https://github.com/udacity/deep-reinforcement-learning/tree/master/p2_continuous-control)
 
@@ -57,6 +57,6 @@ To set up your python environment to run the code in this repository, follow the
 
 ## Instructions
 
-Follow the instructions on [Continuous Control Jupyter Notebook](p2_continuous-control/Continuous-Control.ipynb).
+Follow the instructions on [Continuous Control Jupyter Notebook](p2_continuous-control/Continuous_Control.ipynb).
 
 You can choose to train a new model from scratch while experimenting with different combinations of hyperparameters (in `config_grid`), or simply load the pretrained model weights and observe the agent's policy in the environment. 
